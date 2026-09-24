@@ -9,7 +9,7 @@ Sou desenvolvedor júnior e trabalho no ERP Oracle da AgRoss Insumos com **PL/SQ
 - 🧾 **ERP e fiscal** — NF-e, SEFAZ, CFOP, CST, condição de pagamento e alçada
 - 🔌 **Integração** — APIs REST, Web Services, webhooks e Meta WhatsApp Business API
 - 🤖 **IA aplicada** — agentes sobre as APIs da Anthropic e da DeepSeek, com a ação irreversível travada no código, não no prompt
-- 🧰 **Método** — desenvolvo no Claude Code com skills e agentes que eu mesmo construo; a IA só acessa o banco com conta somente leitura
+- 🧭 **Liderança técnica** — montei a esteira de deploy e os guias do time, e criei as ferramentas que a equipe usa para entender o ERP
 
 ### Stack
 
@@ -27,9 +27,8 @@ Sou desenvolvedor júnior e trabalho no ERP Oracle da AgRoss Insumos com **PL/SQ
   <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
 </p>
 
-### Agora
+### Formação
 
-- 🌱 Estudando testes automatizados e inglês
 - 🎓 Análise e Desenvolvimento de Sistemas no UNASP, com conclusão em dez/2026
 
 > [!NOTE]
