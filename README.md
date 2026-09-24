@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b1220,100:1d4ed8&height=150&section=header&text=Vinicius%20Pontes&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Sistemas%20%C2%B7%20Dados%20%C2%B7%20Automa%C3%A7%C3%A3o%20com%20IA&descSize=19&descAlignY=68" alt="Vinicius Pontes — Sistemas · Dados · Automação com IA" width="100%" />
+<img src="https://raw.githubusercontent.com/pontesvjp/pontesvjp/main/assets/banner.svg" alt="Vinicius Pontes — Sistemas · Dados · Automação com IA" width="100%" />
 
 Trabalho com TI e desenvolvo sistemas internos: back-end em **PHP + Oracle**, dashboards de dados e automações com **IA**.
 
@@ -12,8 +12,8 @@ Trabalho com TI e desenvolvo sistemas internos: back-end em **PHP + Oracle**, da
 ### Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,js,html,css,git,github,vscode&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,git,github,vscode&theme=light" alt="PHP, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pontesvjp/pontesvjp/main/assets/stack-dark.svg" />
+  <img src="https://raw.githubusercontent.com/pontesvjp/pontesvjp/main/assets/stack-light.svg" alt="PHP, JavaScript, HTML, CSS, Git, GitHub e VS Code" />
 </picture>
 
 <p>
