@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
   <title id="title">Vinicius Pontes</title>
-  <desc id="desc">Sistemas · Dados · Automação com IA</desc>
+  <desc id="desc">Desenvolvedor Júnior · Oracle PL/SQL, ERP e Integrações</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#0b1220"/>
@@ -27,6 +27,6 @@
     <circle cx="1150" cy="240" r="95" fill="#93c5fd" fill-opacity="0.08"/>
   </g>
   <text x="80" y="126" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="#ffffff">Vinicius Pontes</text>
-  <text x="82" y="178" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" fill="#cbd5e1">Sistemas · Dados · Automação com IA</text>
+  <text x="82" y="178" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" fill="#cbd5e1">Desenvolvedor Júnior · Oracle PL/SQL, ERP e Integrações</text>
   <rect x="82" y="202" width="64" height="4" rx="2" fill="#60a5fa"/>
 </svg>
